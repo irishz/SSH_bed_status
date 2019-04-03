@@ -1,0 +1,68 @@
+#Available{
+    background-color: #83FFE6;
+}
+
+#Notavailable{
+    color: aliceblue;
+    background-color: #FF5F5F;
+}
+
+#Prepare{
+    background-color: #FFD85F;
+}
+
+#Maintenance{
+    color: aliceblue;
+    background-color: #909090;
+}
+
+.card-header{
+    background-color: #83FFE6;
+}
+
+.card{
+    margin: 5px;
+}
+
+.bed{
+    border: 2px solid;
+    width: 100px;
+    height: auto;
+    text-align: center;
+    padding: 5px; 
+}
+
+.available{
+    padding-left: 10px; 
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #83FFE6;
+}
+.prepare{
+    padding-left: 10px; 
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #FFD85F;
+}
+.maintenance{
+    padding-left: 10px; 
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #909090;
+}
+.notavailable{
+    padding-left: 10px; 
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #FF5F5F;
+}
+
+.card-header{
+    background-color: dimgrey;
+    color:#FFFFFF;
+}
+
